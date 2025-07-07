@@ -3,7 +3,7 @@
 
 Este é um projeto de página pessoal inspirado nos populares **biolinks** usados por criadores de conteúdo para reunir todos os seus links em um só lugar. Criado com foco em **design funcional**, **experiência do usuário** e uma identidade visual coesa, ele foi desenvolvido como parte do meu portfólio como **desenvolvedora web**.
 
-![Capa do Projeto](assets/img/capa-biolink.png)
+![Capa do Projeto](img/capa.png)
 
 ---
 
